@@ -2,4 +2,4 @@
 
 Hello there!
 
-I am a Computer Science student and a Linux nerd, currently situated in Brazil, reach out to me on LinkedIn if you want to talk to me! Open to 2021 Internship opportunities and Full-time positions for late '21/early '22 onwards.
+I am a Computer Science student and a Linux nerd, currently situated in Brazil, reach out to me on LinkedIn if you want to talk! Open to 2021 Internship opportunities and Full-time positions from late 2021/early 2022 onwards.
