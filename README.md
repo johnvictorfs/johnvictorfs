@@ -4,4 +4,4 @@ Hello there! I am a Computer Science student and a Linux nerd, currently situate
 
 Reach out to me on LinkedIn if you want to talk! Open to 2021 Internship opportunities and Full-time positions from late 2021/early 2022 onwards.
 
-![](https://github-readme-stats.vercel.app/api?username=johnvictorfs&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=johnvictorfs&show_icons=true&hide_border=true&hide_rank=true)
