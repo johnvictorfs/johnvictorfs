@@ -2,6 +2,6 @@
 
 Hello there! I am a Computer Science student, and Software Developer, currently situated in Brazil.
 
-Reach out to me on LinkedIn if you want to talk!
+Reach out to me on LinkedIn to have a chat!
 
 ![](https://github-readme-stats.vercel.app/api?username=johnvictorfs&show_icons=true&hide_border=true&hide_rank=true)
