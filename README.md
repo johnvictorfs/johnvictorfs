@@ -4,4 +4,4 @@ Hello there! I am a Computer Science student and Software Developer, currently s
 
 Reach out to me on LinkedIn to have a chat!
 
-![](https://github-readme-stats.vercel.app/api?username=johnvictorfs&show_icons=true&hide_border=true&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api?username=johnvictorfs&show_icons=true&hide_border=true&hide_rank=true&theme=onedark)
