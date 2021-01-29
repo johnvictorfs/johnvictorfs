@@ -9,3 +9,5 @@ Reach out to me on LinkedIn to have a chat!
 
   <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvictorfs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=ayu-mirage" />
 </a>
+
+<a href="https://www.buymeacoffee.com/johnvictor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
