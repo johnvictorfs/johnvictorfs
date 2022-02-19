@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-s)](https://www.linkedin.com/in/joao-victor-s)
 
-Hello there! I am a Full-stack Software Developer and a Linux nerd, currently situated in Brazil.
+Hello there! I am a Full-stack Software Developer and a Linux nerd.
 
 Want me to make you something cool? Email me!
 
