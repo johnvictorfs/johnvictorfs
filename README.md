@@ -1,6 +1,5 @@
-<!--
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-s)](https://www.linkedin.com/in/joao-victor-s)
--->
 
 Hello! I am a Full-stack Software Developer and a Linux nerd.
 
